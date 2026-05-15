@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "appId": "local.prototype2.job-planner",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "channel": "stable",
-  "publishedAt": "2026-05-15T03:43:42Z",
-  "packageFile": "求职规划安排2-原型2-0.2.0.pkg",
-  "sha256": "2ba19201b7d072ca8208b0913d8e60f98040831f5f37b129651883abeae91e4a",
+  "publishedAt": "2026-05-15T04:07:51Z",
+  "packageFile": "求职规划安排2-原型2-0.2.1.pkg",
+  "sha256": "3e2cd4b6a4ad18ee7892ebcd4212bb7cd5ebdd390db8326c856238177998ef1e",
   "notes": [
     "本清单由 npm run package:macos 自动生成。",
     "模型锁定：DeepSeek deepseek-v4-flash；MiMo mimo-v2.5。"
